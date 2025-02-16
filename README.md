@@ -1,10 +1,8 @@
 # ByteSystem
-___
 
 ByteSystem is a Teamspeak Query which administrates your Teamspeak server. It is fully configurable with database integration and allows running multiple instances simultaneously.
 
 ## Features
-___
 - **Channel:**
     - Automatically create channels for users by joining a predefined channel
     - Integrated spam protection for channel creation
@@ -35,7 +33,6 @@ ___
     - Logging of server events and feature actions in local files
 
 ## Installation & Execution
-___
 ### Requirements
 - Java Development Kit (JDK) 8 or higher
 - Apache Maven
@@ -56,7 +53,6 @@ ___
 4. To add yourself as bot admin you need to do this in the console
 
 ## Controls
-___
 | Command | Result                          |
 |---------|---------------------------------|
 | !help   | List of all available commands  |
@@ -65,10 +61,8 @@ ___
 - Some commands available in the console as well
 
 ## Contributors
-___
 - **EricZones** - Developer
 
 ## Purpose
-___
 The query was created to have a better and automated experience administrating Teamspeak servers.
 It was originally developed in 2021 without git.
