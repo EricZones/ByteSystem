@@ -60,9 +60,6 @@ ByteSystem is a Teamspeak Query which administrates your Teamspeak server. It is
 - Commands can be executed by sending direct messages to the query on the Teamspeak server
 - Some commands available in the console as well
 
-## Contributors
-- **EricZones** - Developer
-
 ## Purpose
 The query was created to have a better and automated experience administrating Teamspeak servers.
 It was originally developed in 2021 without git.
